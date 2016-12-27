@@ -1,0 +1,15 @@
+HResults -A -D -T 1 -e ??? sil -I result/ref_fan.mlf result/labellist_fan.txt result/reco_fan.mlf 
+
+No HTK Configuration Parameters Set
+
+====================== HTK Results Analysis =======================
+  Date: Mon Aug 05 19:11:05 2013
+  Ref : result/ref_fan.mlf
+  Rec : result/reco_fan.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=99.20 [H=1984, S=16, N=2000]
+WORD: %Corr=99.10, Acc=99.10 [H=1986, D=4, S=14, I=0, N=2004]
+===================================================================
+
+No HTK Configuration Parameters Set
+

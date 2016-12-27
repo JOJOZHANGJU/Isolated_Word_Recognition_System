@@ -1,0 +1,1 @@
+Hcopy -A -D -C test/analysis.conf -S test/targetlist_test.txt

@@ -1,0 +1,1 @@
+Hcopy -A -D -C training/analysis.conf -S training/targetlist_train.txt

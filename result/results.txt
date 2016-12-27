@@ -1,0 +1,15 @@
+HResults -A -D -T 1 -e ??? sil -I result/ref.mlf result/labellist.txt result/reco.mlf 
+
+No HTK Configuration Parameters Set
+
+====================== HTK Results Analysis =======================
+  Date: Mon Aug 05 19:11:04 2013
+  Ref : result/ref.mlf
+  Rec : result/reco.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=72.72 [H=4363, S=1637, N=6000]
+WORD: %Corr=72.53, Acc=72.53 [H=4365, D=18, S=1635, I=0, N=6018]
+===================================================================
+
+No HTK Configuration Parameters Set
+

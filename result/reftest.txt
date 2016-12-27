@@ -1,0 +1,292 @@
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/ba/ba(4).lab"
+16221250	19754375	ba_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/ba/ba(5).lab"
+16950625	20443125	ba_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/changge/changge(4).lab"
+13288125	19260000	changge_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/changge/changge(5).lab"
+12606875	18569375	changge_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/chayanguanse/chayanguanse(4).lab"
+13881250	25545000	chayanguanse_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/chayanguanse/chayanguanse(5).lab"
+12010000	23595000	chayanguanse_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/daiji/daiji(4).lab"
+12485000	18357500	daiji_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/daiji/daiji(5).lab"
+12351250	18654375	daiji_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/dataiji/dataiji(4).lab"
+20486250	42036875	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/dataiji/dataiji(5).lab"
+23467500	41610625	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/dazhaohu/dazhaohu(4).lab"
+21273125	39993750	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/dazhaohu/dazhaohu(5).lab"
+20741250	41430000	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/dingwei/dingwei(4).lab"
+41080625	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/dingwei/dingwei(5).lab"
+0	11520000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/er/er(4).lab"
+0	11405625	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/er/er(5).lab"
+0	11520000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/ertingbafang/ertingbafang(4).lab"
+0	11811250	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/ertingbafang/ertingbafang(5).lab"
+0	11704375	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/houtui/houtui(4).lab"
+13141875	18481250	houtui_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/houtui/houtui(5).lab"
+16427500	40993750	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/houzhuan/houzhuan(4).lab"
+18481250	40558750	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/houzhuan/houzhuan(5).lab"
+17419375	41114375	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/huishou/huishou(4).lab"
+17823750	40776250	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/huishou/huishou(5).lab"
+40303125	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/jirenlian/jirenlian(4).lab"
+40167500	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/jirenlian/jirenlian(5).lab"
+40573750	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/jiu/jiu(4).lab"
+41249375	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/jiu/jiu(5).lab"
+41835625	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/kan/kan(4).lab"
+40428125	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/kan/kan(5).lab"
+40753750	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/liu/liu(4).lab"
+40341250	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/liu/liu(5).lab"
+40471875	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/qi/qi(4).lab"
+40471875	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/qi/qi(5).lab"
+40167500	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/qianjin/qianjin(4).lab"
+40979374	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/qianjin/qianjin(5).lab"
+40515000	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/qili/qili(4).lab"
+40645625	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/qili/qili(5).lab"
+39341875	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/san/san(4).lab"
+41114375	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/san/san(5).lab"
+0	12180625	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shanqiyingren/shanqiyingren(4).lab"
+11405625	14991250	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shanqiyingren/shanqiyingren(5).lab"
+11476249	16263125	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shi/shi(4).lab"
+11693750	15646875	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shi/shi(5).lab"
+9807500	16096250	shibie_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shibie/shibie(4).lab"
+14743750	26325000	shouzhudaitu_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shibie/shibie(5).lab"
+21150625	40732500	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shouzhudaitu/shouzhudaitu(4).lab"
+41341250	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shouzhudaitu/shouzhudaitu(5).lab"
+0	11946250	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shuohua/shuohua(4).lab"
+0	11954375	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/shuohua/shuohua(5).lab"
+0	11827500	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/si/si(4).lab"
+12689375	18973750	taitou_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/si/si(5).lab"
+13798750	26489375	taotaobujue_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/taitou/taitou(4).lab"
+14785000	26325000	taotaobujue_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/taitou/taitou(5).lab"
+14039375	40385000	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/taotaobujue/taotaobujue(4).lab"
+28748750	41700625	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/taotaobujue/taotaobujue(5).lab"
+19590000	40080625	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/tiaowu/tiaowu(4).lab"
+20525625	42254375	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/tiaowu/tiaowu(5).lab"
+19548750	40934375	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/ting/ting(4).lab"
+18143125	41655625	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/ting/ting(5).lab"
+16427500	40732500	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/ting1/ting1(4).lab"
+17520000	41688750	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/ting1/ting1(5).lab"
+20533750	40471875	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/tingzhi/tingzhi(4).lab"
+21971875	41819375	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/tingzhi/tingzhi(5).lab"
+22998750	40602500	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/wangqianzou/wangqianzou(4).lab"
+25128125	41295000	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/wangqianzou/wangqianzou(5).lab"
+20358125	40167500	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/wenjiqiwu/wenjiqiwu(4).lab"
+19123125	41384999	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/wenjiqiwu/wenjiqiwu(5).lab"
+20904375	39124375	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/wu/wu(4).lab"
+19096875	40471875	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/wu/wu(5).lab"
+22104375	40934375	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xiadun/xiadun(4).lab"
+21848750	40385000	neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xiadun/xiadun(5).lab"
+41080625	46080000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xianghoutui/xianghoutui(4).lab"
+41249375	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xianghoutui/xianghoutui(5).lab"
+41610625	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xiangyouzhuan/xiangyouzhuan(4).lab"
+42036875	45992499	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xiangyouzhuan/xiangyouzhuan(5).lab"
+39175625	47786875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xiangzuozhuan/xiangzuozhuan(4).lab"
+0	11606875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xiangzuozhuan/xiangzuozhuan(5).lab"
+0	11606875	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xingzou/xingzou(4).lab"
+0	10433125	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/xingzou/xingzou(5).lab"
+0	11630625	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/yi/yi(4).lab"
+0	11135000	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/yi/yi(5).lab"
+0	10999375	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/yiyanbufa/yiyanbufa(4).lab"
+0	11450625	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/yiyanbufa/yiyanbufa(5).lab"
+0	11585625	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/youzhuan/youzhuan(4).lab"
+0	10258750	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/youzhuan/youzhuan(5).lab"
+0	10999375	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zhan/zhan(4).lab"
+0	12320625	fan
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zhan/zhan(5).lab"
+12265625	17717500	zhuantou_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zhaoshengyin/zhaoshengyin(4).lab"
+16304375	21561250	zou_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zhaoshengyin/zhaoshengyin(5).lab"
+14345625	21438125	zou_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zhuantou/zhuantou(4).lab"
+17461875	21038750	zuo_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zhuantou/zhuantou(5).lab"
+17802500	21252500	zuo_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zou/zou(4).lab"
+14608125	24276250	zuoguyoupan_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zou/zou(5).lab"
+13881250	23738125	zuoguyoupan_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zuo/zuo(4).lab"
+14497500	18850625	zuozhuan_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zuo/zuo(5).lab"
+14497500	18850625	zuozhuan_neck
+.
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zuoguyoupan/zuoguyoupan(4).lab"
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zuoguyoupan/zuoguyoupan(5).lab"
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zuozhuan/zuozhuan(4).lab"
+"NAOASRHTK/HTK/data/test/mfcc/wordsneck/7lounao/gaoxiaoni/zuozhuan/zuozhuan(5).lab"

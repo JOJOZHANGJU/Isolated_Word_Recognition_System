@@ -1,0 +1,15 @@
+HResults -A -D -T 1 -e ??? sil -I result/ref_neck.mlf result/labellist_neck.txt result/reco_neck.mlf 
+
+No HTK Configuration Parameters Set
+
+====================== HTK Results Analysis =======================
+  Date: Mon Aug 05 19:11:06 2013
+  Ref : result/ref_neck.mlf
+  Rec : result/reco_neck.mlf
+------------------------ Overall Results --------------------------
+SENT: %Correct=83.85 [H=1677, S=323, N=2000]
+WORD: %Corr=83.52, Acc=83.52 [H=1677, D=8, S=323, I=0, N=2008]
+===================================================================
+
+No HTK Configuration Parameters Set
+

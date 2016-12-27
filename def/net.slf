@@ -1,0 +1,174 @@
+VERSION=1.0
+N=60   L=111  
+I=0    W=START                 
+I=1    W=!NULL                
+I=2    W=ARM               
+I=3    W=NECK               
+I=4    W=!NULL            
+I=5    W=BA         
+I=6    W=CHANGGE                 
+I=7    W=CHAYANGUANSE                 
+I=8    W=DAIJI            
+I=9    W=DATAIJI        
+I=10   W=DAZHAOHU                
+I=11   W=DINGWEI            
+I=12   W=ER           
+I=13   W=ERTINGBAFANG                  
+I=14   W=HOUTUI             
+I=15   W=HOUZHUAN       
+I=16   W=HUISHOU       
+I=17   W=JIRENLIAN         
+I=18   W=JIU              
+I=19   W=KAN                  
+I=20   W=LIU           
+I=21   W=QI         
+I=22   W=QIANJIN             
+I=23   W=QILI               
+I=24   W=SAN                
+I=25   W=SHANQIYINGREN              
+I=26   W=SHI         
+I=27   W=SHIBIE              
+I=28   W=SHOUZHUDAITU                  
+I=29   W=SHUOHUA             
+I=30   W=SI        
+I=31   W=TAITOU              
+I=32   W=TAOTAOBUJUE                 
+I=33   W=TIAOWU       
+I=34   W=TING                 
+I=35   W=TING1                
+I=36   W=TINGZHI             
+I=37   W=WANGQIANZOU                  
+I=38   W=WENJIQIWU                 
+I=39   W=WU                 
+I=40   W=XIADUN                 
+I=41   W=XIANGHOUTUI           
+I=42   W=XIANGYOUZHUAN             
+I=43   W=XIANGZUOZHUAN            
+I=44   W=XINGZOU              
+I=45   W=YI        
+I=46   W=YIYANBUFA                  
+I=47   W=YOUZHUAN             
+I=48   W=ZHAN            
+I=49   W=ZHAOSHENGYIN             
+I=50   W=ZHUANTOU               
+I=51   W=ZOU        
+I=52   W=ZUO             
+I=53   W=ZUOGUYOUPAN                  
+I=54   W=ZUOZHUAN                
+I=55   W=!NULL             
+I=56   W=NECK             
+I=57   W=ARM             
+I=58   W=!NULL 
+I=59   W=END                                       
+J=0     S=0    E=1    
+J=1     S=1    E=2    
+J=2     S=1    E=3    
+J=3     S=1    E=4    
+J=4     S=2    E=4    
+J=5     S=3    E=4    
+J=6     S=4    E=5    
+J=7     S=4    E=6    
+J=8     S=4    E=7    
+J=9     S=4    E=8    
+J=10    S=4    E=9    
+J=11    S=4    E=10    
+J=12    S=4    E=11    
+J=13    S=4    E=12    
+J=14    S=4    E=13    
+J=15    S=4    E=14    
+J=16    S=4    E=15    
+J=17    S=4    E=16    
+J=18    S=4    E=17    
+J=19    S=4    E=18    
+J=20    S=4    E=19    
+J=21    S=4    E=20    
+J=22    S=4    E=21    
+J=23    S=4    E=22    
+J=24    S=4    E=23    
+J=25    S=4    E=24    
+J=26    S=4    E=25    
+J=27    S=4    E=26    
+J=28    S=4    E=27    
+J=29    S=4    E=28    
+J=30    S=4    E=29    
+J=31    S=4    E=30    
+J=32    S=4    E=31    
+J=33    S=4    E=32    
+J=34    S=4    E=33    
+J=35    S=4    E=34    
+J=36    S=4    E=35    
+J=37    S=4    E=36    
+J=38    S=4    E=37    
+J=39    S=4    E=38    
+J=40    S=4    E=39    
+J=41    S=4    E=40    
+J=42    S=4    E=41    
+J=43    S=4    E=42    
+J=44    S=4    E=43    
+J=45    S=4    E=44    
+J=46    S=4    E=45    
+J=47    S=4    E=46    
+J=48    S=4    E=47    
+J=49    S=4    E=48    
+J=50    S=4    E=49    
+J=51    S=4    E=50    
+J=52    S=4    E=51    
+J=53    S=4    E=52    
+J=54    S=4    E=53    
+J=55    S=4    E=54    
+J=56    S=5    E=55    
+J=57    S=6    E=55    
+J=58    S=7    E=55    
+J=59    S=8    E=55    
+J=60    S=9    E=55    
+J=61    S=10   E=55    
+J=62    S=11   E=55    
+J=63    S=12   E=55    
+J=64    S=13   E=55    
+J=65    S=14   E=55    
+J=66    S=15   E=55    
+J=67    S=16   E=55    
+J=68    S=17   E=55    
+J=69    S=18   E=55    
+J=70    S=19   E=55    
+J=71    S=20   E=55    
+J=72    S=21   E=55    
+J=73    S=22   E=55    
+J=74    S=23   E=55   
+J=75    S=24   E=55   
+J=76    S=25   E=55   
+J=77    S=26   E=55   
+J=78    S=27   E=55   
+J=79    S=28   E=55   
+J=80    S=29   E=55   
+J=81    S=30   E=55   
+J=82    S=31   E=55   
+J=83    S=32   E=55   
+J=84    S=33   E=55   
+J=85    S=34   E=55   
+J=86    S=35   E=55   
+J=87    S=36   E=55   
+J=88    S=37   E=55   
+J=89    S=38   E=55   
+J=90    S=39   E=55   
+J=91    S=40   E=55   
+J=92    S=41   E=55   
+J=93    S=42   E=55   
+J=94    S=43   E=55   
+J=95    S=44   E=55   
+J=96    S=45   E=55   
+J=97    S=46   E=55   
+J=98    S=47   E=55   
+J=99    S=48   E=55   
+J=100   S=49   E=55   
+J=101   S=50   E=55   
+J=102   S=51   E=55   
+J=103   S=52   E=55   
+J=104   S=53   E=55   
+J=105   S=54   E=55   
+J=106   S=55   E=56   
+J=107   S=55   E=57   
+J=108   S=56   E=58   
+J=109   S=57   E=58   
+J=110   S=58   E=59  
+
